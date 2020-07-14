@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">charizard</string>
+    <string name="host">host</string>
+    <string name="clientId">clientId</string>
+    <string name="random">random</string>
+    <string name="port">port</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="client1">client1</string>
+    <string name="subjectButton">subject</string>
+    <string name="subject">subject</string>
+    <string name="publishTopic">publishTopic</string>
+    <string name="subjectTopic">subject</string>
+    <string name="publish">publish</string>
+    <string name="hi">hi</string>
+    <string name="defaultTopic">/test</string>
+    <string name="publishButton">publish</string>
+    <string name="payload">payload</string>
+    <string name="topic">topic</string>
+    <string name="log">发送接收日志</string>
+    <string name="subjectQos">qos</string>
+</resources>
